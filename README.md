@@ -1,4 +1,4 @@
-# swc-example-anna
+# swc-example-anna_banana
 An example project for the Git Lesson of EMBL Software Carpentry
 
 Quick Markdown overview
