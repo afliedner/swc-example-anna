@@ -1,4 +1,5 @@
 # swc-example-anna
+
 An updated example project for the Git Lesson of EMBL Software Carpentry
 **It's almost time for dinner!**
 
