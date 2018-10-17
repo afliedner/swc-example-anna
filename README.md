@@ -7,6 +7,7 @@ Quick Markdown overview
 - create **bold text** with **
 - create *italic* text with *
 - include [links](https://embl.de) with [] and ()
+- type `code` with backtips
 
 
 . . - ) fertig ist das Mondgesicht **:-)**
