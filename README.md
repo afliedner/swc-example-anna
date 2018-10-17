@@ -9,3 +9,5 @@ Quick Markdown overview
 
 
 . . - ) fertig ist das Mondgesicht **:-)**
+
+gg emoji
